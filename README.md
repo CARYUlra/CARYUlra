@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Lucca+Ryu+Ando&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Olá+mundo;Hello+world;ZA+WARUDO" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Olá+mundo;Hello+world;ZA+WARUDO" />     <img src="https://komarev.com/ghpvc/?username=miguelsoledade13&color=blue" />
 
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
@@ -34,7 +34,7 @@
 - Excel
 - Word
 
-   <img src="https://komarev.com/ghpvc/?username=miguelsoledade13&color=blue" />  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/767cb3da-792d-4f15-8bda-53298b538457" />         <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />   
+    <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/767cb3da-792d-4f15-8bda-53298b538457" />         <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />   
 
 ---
 
