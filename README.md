@@ -2,6 +2,12 @@
 
 <img width="418" height="121" alt="image" src="https://github.com/user-attachments/assets/cb66b62c-bfeb-47a0-bd1a-5c4abbcf4f2d" />   <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/0fb017f8-fd4e-4fcf-8705-47927f0d34f4" />
 
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
