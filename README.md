@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Lucca+Ryu+Ando&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img width="418" height="121" alt="image" src="https://github.com/user-attachments/assets/cb66b62c-bfeb-47a0-bd1a-5c4abbcf4f2d" />
+<img width="418" height="121" alt="image" src="https://github.com/user-attachments/assets/cb66b62c-bfeb-47a0-bd1a-5c4abbcf4f2d" />   <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/0fb017f8-fd4e-4fcf-8705-47927f0d34f4" />
+
 
 ---
 
