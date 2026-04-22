@@ -33,7 +33,8 @@
 - Excel
 - Word
 
-    <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/767cb3da-792d-4f15-8bda-53298b538457" />         <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />   
+<img width="498" height="498" alt="YetopenGIF" src="https://github.com/user-attachments/assets/d61e6e29-35f2-4d2e-8dfc-8a6a840f1d36" />
+ <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />   
 
 ---
 
