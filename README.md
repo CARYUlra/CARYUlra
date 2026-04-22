@@ -21,7 +21,8 @@
 
 ## STAND STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical) <img width="498" height="228" alt="Mahoraga&#39;SAdaptationMahoraga&#39;SWheelGIF" src="https://github.com/user-attachments/assets/bb9b9369-e5f9-49d8-b34e-b1684d466564" />
+
 
 ---
 
