@@ -46,7 +46,10 @@
 - Rock
 
 <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/34be07c0-4a1e-4e12-acfe-e456901e6449" />   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ea1c652e-98aa-467d-852f-b4691b940bfd" /> 
-<img width="420" height="420" alt="WonderOfUWouGIF" src="https://github.com/user-attachments/assets/af444d86-f03a-47be-b78d-d9816428bcf9" /> 
+<img width="420" height="420" alt="WonderOfUWouGIF" src="https://github.com/user-attachments/assets/af444d86-f03a-47be-b78d-d9816428bcf9" />  
+
+
+
 
 
 
