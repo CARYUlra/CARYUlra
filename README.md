@@ -18,6 +18,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
+
 ## STAND STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical)
@@ -31,12 +32,16 @@
 - Virtualização com VirtualBox
 - Excel
 - Word
-<img width="498" height="498" alt="YetopenGIF" src="https://github.com/user-attachments/assets/d61e6e29-35f2-4d2e-8dfc-8a6a840f1d36" /> <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />   
+- 
+<img width="498" height="498" alt="YetopenGIF" src="https://github.com/user-attachments/assets/d61e6e29-35f2-4d2e-8dfc-8a6a840f1d36" /> <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" />
+
 ---
+
 ## Coisas que gosto
 - JoJo’s Bizarre Adventure
 - Linux e tecnologia
 - Comida boa 🍕🍣
 - Jogos indie
 - Rock
+  
 <img width="420" height="420" alt="WonderOfUWouGIF" src="https://github.com/user-attachments/assets/af444d86-f03a-47be-b78d-d9816428bcf9" />  <img width="498" height="337" alt="GyroGIF" src="https://github.com/user-attachments/assets/73fdb44a-6752-4e6c-9c2f-f96d0b7b0712" /> <img width="498" height="424" alt="SoulKnightGIF" src="https://github.com/user-attachments/assets/13be9bb0-fce8-4d21-a2a6-58e18a1a85e2" /> <img width="280" height="256" alt="CastleCrashersDanceGIF" src="https://github.com/user-attachments/assets/90d5a53f-7411-47b6-b79d-38eabab9c262" /> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
