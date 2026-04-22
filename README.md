@@ -6,7 +6,7 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> <img width="498" height="337" alt="GyroGIF" src="https://github.com/user-attachments/assets/73fdb44a-6752-4e6c-9c2f-f96d0b7b0712" />
 
 
 ---
