@@ -34,7 +34,7 @@
 - Excel
 - Word
   
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" /> <img width="200" height="200" alt="YetopenGIF" src="https://github.com/user-attachments/assets/d61e6e29-35f2-4d2e-8dfc-8a6a840f1d36" /> 
+<img width="340" height="208" alt="image" src="https://github.com/user-attachments/assets/0acdcafd-94f7-40e9-9808-260034d71166" /> <img width="200" height="200" alt="YetopenGIF" src="https://github.com/user-attachments/assets/d61e6e29-35f2-4d2e-8dfc-8a6a840f1d36" /> 
 
 ---
  
