@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Lucca+Ryu+Ando&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Olá+mundo;Hello+world;ZA+WARUDO" />     <img src="https://komarev.com/ghpvc/?username=miguelsoledade13&color=blue" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Olá+mundo;Hello+world;ZA+WARUDO" />   <img src="https://komarev.com/ghpvc/?username=CARYUlra&color=blue" />
 
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
