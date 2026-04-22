@@ -21,7 +21,7 @@
 
 ## STAND STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical) <img width="256" height="256" alt="JjkAdaptGIF" src="https://github.com/user-attachments/assets/899cfa7d-23b5-4aa4-8133-8a21ea346191" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical) <img width="256" height="256" alt="JjkAdaptGIF" src="https://github.com/user-attachments/assets/899cfa7d-23b5-4aa4-8133-8a21ea346191" /> 
 
 
 ---
