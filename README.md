@@ -45,5 +45,7 @@
 - Jogos indie
 - Rock
 
-   <img width="400" height="300" alt="GyroGIF" src="https://github.com/user-attachments/assets/73fdb44a-6752-4e6c-9c2f-f96d0b7b0712" /> <img width="300" height="260" alt="SoulKnightGIF" src="https://github.com/user-attachments/assets/13be9bb0-fce8-4d21-a2a6-58e18a1a85e2" /> <img width="320" height="300" alt="CastleCrashersDanceGIF" src="https://github.com/user-attachments/assets/90d5a53f-7411-47b6-b79d-38eabab9c262" />  <img width="300" height="300" alt="WonderOfUWouGIF" src="https://github.com/user-attachments/assets/af444d86-f03a-47be-b78d-d9816428bcf9" /> <img width="1000" height="500" alt="GojoGIF" src="https://github.com/user-attachments/assets/63ca2548-65a5-4814-b4c3-bc5cd80602d6" />
- <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
+   <img width="400" height="300" alt="GyroGIF" src="https://github.com/user-attachments/assets/73fdb44a-6752-4e6c-9c2f-f96d0b7b0712" /> <img width="300" height="260" alt="SoulKnightGIF" src="https://github.com/user-attachments/assets/13be9bb0-fce8-4d21-a2a6-58e18a1a85e2" /> <img width="320" height="300" alt="CastleCrashersDanceGIF" src="https://github.com/user-attachments/assets/90d5a53f-7411-47b6-b79d-38eabab9c262" />  <img width="300" height="300" alt="WonderOfUWouGIF" src="https://github.com/user-attachments/assets/af444d86-f03a-47be-b78d-d9816428bcf9" /> <img width="498" height="498" alt="CatPixelGIF" src="https://github.com/user-attachments/assets/afb78703-2fa9-4a7f-9e6d-88e40556513c" />
+
+
+   <img width="1000" height="400" alt="GatauGIF" src="https://github.com/user-attachments/assets/528b001d-2071-4c55-af9f-f02d83eb0bae" />
