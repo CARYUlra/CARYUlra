@@ -44,4 +44,5 @@
 - Comida boa 🍕🍣
 - Jogos indie
 - Rock
+---
    <img width="1000" height="400" alt="GatauGIF" src="https://github.com/user-attachments/assets/528b001d-2071-4c55-af9f-f02d83eb0bae" />
