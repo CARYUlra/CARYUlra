@@ -21,8 +21,7 @@
 
 ## STAND STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CARYUlra&show_icons=true&theme=radical)  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARYUlra&theme=radical&layout=compact" />
 <img width="498" height="228" alt="9772d471cf0255ffc8c5e36478461b70" src="https://github.com/user-attachments/assets/1fb533f7-34f0-45f3-9459-598918dc2cc2" />
 
 
